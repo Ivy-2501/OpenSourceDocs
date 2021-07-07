@@ -5,10 +5,9 @@
 
 
 ## v2board_user_docs
-开源好康的 ```v2board``` 使用教程
-具体使用教程请看 ```v2board_user_docs``` 目录下的 `README.md`
+开源好康的 `v2board` 使用教程
+具体使用教程请看 `v2board_user_docs` 目录下的 `README.md`
 
 
 ## 给予我赞助，让我获取更多动力
-使用 TRC20 
-``` TXaVBJbMhXhDStjFn8KRT1dgvRVPT2WGdf ```
+使用 TRC20 `TXaVBJbMhXhDStjFn8KRT1dgvRVPT2WGdf`
